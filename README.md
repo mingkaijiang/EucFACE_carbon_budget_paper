@@ -49,7 +49,7 @@ Agnieszka Wujeska-Klause,
 [Jinyan Yang](https://sites.google.com/site/jinyanjimyang), 
 [Sönke Zaehle](https://www.bgc-jena.mpg.de/bgi/index.php/People/SoenkeZaehle), 
 [David S. Ellsworth](https://www.westernsydney.edu.au/hie/people/researchers/professor_david_ellsworth)
-*Nature*, 2020, accepted.
+*Nature*, 2020, 580, 227-231.
 
 ## Overview ##
 
